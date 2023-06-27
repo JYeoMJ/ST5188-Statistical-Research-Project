@@ -10,10 +10,12 @@ This project was completed in fulfillment of the capstone project module, ST5188
 CONTENTS:
 
 1. Cluster-LightGCN (Cluster-Based Sampling)
+   > Self-contained code in Jupyter notebook format for running our lightweight implementation of LightGCN over the MovieLens100k dataset, and for testing the Cluster-based sampling approach.
 2. SimpleLGN (Collapsing User-Item Representation)
+   > This is the modified version of the Original LightGCN source code, for testing simplegcn and mixgcf+simplegcn.
 3. Tuned-MixGCF (Improving Training)
-   
-5. Experimental Files
+   > This is the code for testing the tuned MixGCF approach.
+4. Experimental Files
    > This folder contains all intermediate experimental jupyter notebooks.
-6. Reports
+5. Reports
    > This folder contains all intermediate and final reports, and final presentation materials prepared over the course of this project.
